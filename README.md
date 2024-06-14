@@ -69,7 +69,7 @@ To run the code for these projects, follow the steps below:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd exam-rank-2
+    cd exam_rank_2_1337
     ```
 3. Compile a C file:
    Replace example.c with the name of your C file and executable_name with the desired name of the executable.
