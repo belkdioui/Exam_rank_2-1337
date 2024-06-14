@@ -1,4 +1,4 @@
-# Exam Rank 2 Solutions - 1337 École
+# Exam Rank 2 Solutions - 1337
 
 Welcome to my repository! This repository contains my solutions for the Exam Rank 2 at 1337 École. Below you will find information about the projects, my approach to solving them, and how to run my code.
 
