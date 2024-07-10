@@ -9,6 +9,7 @@ Welcome to my repository! This repository contains my solutions for the Exam Ran
    - [Level 1](#level-1)
    - [Level 2](#level-2)
    - [Level 3](#level-3)
+   - [Level 4](#level-4)
 3. [How to Run](#how-to-run)
 4. [Technologies Used](#technologies-used)
 5. [Contact](#contact)
@@ -31,6 +32,7 @@ This repository contains my solutions to the projects assigned during the Exam R
 8. **rotone.c**
 9. **search_and_replace.c**
 10. **ulstr.c**
+11. **ft_strlen.c**
 
 ### Level 2
 
@@ -58,6 +60,16 @@ This repository contains my solutions to the projects assigned during the Exam R
 2. **lcm.c**
 3. **print_hex.c**
 4. **tab_mult.c**
+5. **add_prime_sum.c**
+6. **ft_list_size.c**
+
+### Level 4
+
+1. **fprime.c**
+2. **ft_itoa.c**
+3. **ft_list_foreach.c**
+4. **ft_split.c**
+5. **sort_list.c**
 
 ## How to Run
 
